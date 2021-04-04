@@ -30,7 +30,7 @@
 
 
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I like to meet new people</b> so if you want to say <b>hi, don't be ashamed!</b> 😊</em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em>I like to meet new people, so if you want to say hi, don't be ashamed! 😊</em>
 
 
 ![Dino](https://raw.githubusercontent.com/wangningkai/wangningkai/master/assets/dino.gif)
