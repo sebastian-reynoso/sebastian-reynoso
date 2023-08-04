@@ -1,6 +1,6 @@
 ###  :man_technologist:  [Sebastian Reynoso](https://github.com/SReynoso-DEV)
 
-👋 Hi, I'm Sebastian Reynoso, a passionate person for web development and learning new things through time 🚀. 
+👋 Hi, I'm Sebastian Reynoso, a passionate net developer who wants to learn new things through time 🚀. 
 
 [![SReynoso-Dev's github stats](https://github-readme-stats.vercel.app/api?username=SReynoso-DEV&count_private=true&show_icons=true&theme=radical)](https://github.com/SReynoso-DEV)
 
