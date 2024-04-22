@@ -1,12 +1,12 @@
-###  :man_technologist:  [Sebastian Reynoso](https://github.com/SReynoso-DEV)
+###  :man_technologist:  [Sebastian Reynoso](https://github.com/sebastian-reynoso)
 
 👋 Hi, I'm Sebastian Reynoso, a passionate net developer who wants to learn new things through time 🚀. 
 
-[![SReynoso-Dev's github stats](https://github-readme-stats.vercel.app/api?username=SReynoso-DEV&count_private=true&show_icons=true&theme=radical)](https://github.com/SReynoso-DEV)
+[![SReynoso-Dev's github stats](https://github-readme-stats.vercel.app/api?username=SReynoso-DEV&count_private=true&show_icons=true&theme=radical)](https://github.com/sebastian-reynoso)
 
 ### About
 
--  **Learning :** Full-Stack Development :zap:   
+-  **Learning :** .NET Development :zap:   
 -  **Hobbies :** Video Games :video_game: Music :headphones: Guitar :guitar:
 -  **Fact :** First solve the problem, then write the code :heart:
 -  **Contact Me :** [Sebastian Reynoso](mailto:sreynoso0499@gmail.com)
