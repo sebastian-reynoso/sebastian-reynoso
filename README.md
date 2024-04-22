@@ -2,7 +2,7 @@
 
 👋 Hi, I'm Sebastian Reynoso, a passionate net developer who wants to learn new things through time 🚀. 
 
-[![SReynoso-Dev's github stats](https://github-readme-stats.vercel.app/api?username=SReynoso-DEV&count_private=true&show_icons=true&theme=radical)](https://github.com/sebastian-reynoso)
+[![sebastian-reynoso's github stats](https://github-readme-stats.vercel.app/api?username=sebastian-reynoso&count_private=true&show_icons=true&theme=radical)](https://github.com/sebastian-reynoso)
 
 ### About
 
